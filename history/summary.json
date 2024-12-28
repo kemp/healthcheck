@@ -94,19 +94,19 @@
     "url": "https://kemp.app",
     "icon": "https://icons.duckduckgo.com/ip3/kemp.app.ico",
     "slug": "kemp-app",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 312,
-    "timeDay": 263,
-    "timeWeek": 323,
-    "timeMonth": 312,
-    "timeYear": 312,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 311,
+    "timeDay": 277,
+    "timeWeek": 320,
+    "timeMonth": 311,
+    "timeYear": 311,
     "dailyMinutesDown": {
-      "2024-12-28": 0
+      "2024-12-28": 6
     }
   },
   {
