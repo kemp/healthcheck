@@ -166,19 +166,19 @@
     "url": "https://videomirror.app",
     "icon": "https://icons.duckduckgo.com/ip3/videomirror.app.ico",
     "slug": "videomirror-app",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 477,
-    "timeDay": 439,
-    "timeWeek": 471,
-    "timeMonth": 477,
-    "timeYear": 477,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 773,
+    "timeDay": 3015,
+    "timeWeek": 1326,
+    "timeMonth": 773,
+    "timeYear": 773,
     "dailyMinutesDown": {
-      "2025-01-03": 0
+      "2025-01-03": 7
     }
   },
   {
@@ -186,19 +186,19 @@
     "url": "https://videomirror.app/donate",
     "icon": "https://icons.duckduckgo.com/ip3/videomirror.app.ico",
     "slug": "videomirror-app-donate",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 37,
-    "timeDay": 43,
+    "timeDay": 41,
     "timeWeek": 37,
     "timeMonth": 37,
     "timeYear": 37,
     "dailyMinutesDown": {
-      "2025-01-03": 0
+      "2025-01-03": 7
     }
   }
 ]
