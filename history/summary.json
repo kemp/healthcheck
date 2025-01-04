@@ -4,18 +4,20 @@
     "url": "https://camflip.net/api/v1/activations/$CF_ACTIVATION",
     "icon": "https://icons.duckduckgo.com/ip3/camflip.net.ico",
     "slug": "cam-flip-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 175,
-    "timeDay": 144,
-    "timeWeek": 165,
-    "timeMonth": 175,
-    "timeYear": 175,
-    "dailyMinutesDown": {}
+    "time": 172,
+    "timeDay": 121,
+    "timeWeek": 157,
+    "timeMonth": 172,
+    "timeYear": 172,
+    "dailyMinutesDown": {
+      "2025-01-04": 0
+    }
   },
   {
     "name": "CamFlip Home",
@@ -40,36 +42,40 @@
     "url": "https://camflip.net/licenses/$CF_LICENSE",
     "icon": "https://icons.duckduckgo.com/ip3/camflip.net.ico",
     "slug": "cam-flip-license",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 68,
-    "timeDay": 49,
-    "timeWeek": 55,
-    "timeMonth": 68,
-    "timeYear": 68,
-    "dailyMinutesDown": {}
+    "time": 69,
+    "timeDay": 78,
+    "timeWeek": 62,
+    "timeMonth": 69,
+    "timeYear": 69,
+    "dailyMinutesDown": {
+      "2025-01-04": 0
+    }
   },
   {
     "name": "CamFlip Purchase Page",
     "url": "https://camflip.net/purchase",
     "icon": "https://icons.duckduckgo.com/ip3/camflip.net.ico",
     "slug": "cam-flip-purchase-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 111,
-    "timeDay": 100,
-    "timeWeek": 107,
-    "timeMonth": 111,
-    "timeYear": 111,
-    "dailyMinutesDown": {}
+    "time": 118,
+    "timeDay": 192,
+    "timeWeek": 129,
+    "timeMonth": 118,
+    "timeYear": 118,
+    "dailyMinutesDown": {
+      "2025-01-04": 0
+    }
   },
   {
     "name": "GlobalOffset.com",
