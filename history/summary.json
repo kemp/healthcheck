@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/camflip.net.ico",
     "slug": "cam-flip-api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 172,
     "timeDay": 121,
     "timeWeek": 157,
     "timeMonth": 172,
     "timeYear": 172,
     "dailyMinutesDown": {
-      "2025-01-04": 0
+      "2025-01-04": 10
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://camflip.net/licenses/$CF_LICENSE",
     "icon": "https://icons.duckduckgo.com/ip3/camflip.net.ico",
     "slug": "cam-flip-license",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 69,
-    "timeDay": 78,
-    "timeWeek": 62,
-    "timeMonth": 69,
-    "timeYear": 69,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 71,
+    "timeDay": 88,
+    "timeWeek": 67,
+    "timeMonth": 71,
+    "timeYear": 71,
     "dailyMinutesDown": {
-      "2025-01-04": 0
+      "2025-01-04": 10
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://camflip.net/purchase",
     "icon": "https://icons.duckduckgo.com/ip3/camflip.net.ico",
     "slug": "cam-flip-purchase-page",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 118,
-    "timeDay": 192,
-    "timeWeek": 129,
-    "timeMonth": 118,
-    "timeYear": 118,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 123,
+    "timeDay": 218,
+    "timeWeek": 145,
+    "timeMonth": 123,
+    "timeYear": 123,
     "dailyMinutesDown": {
-      "2025-01-04": 0
+      "2025-01-04": 10
     }
   },
   {
