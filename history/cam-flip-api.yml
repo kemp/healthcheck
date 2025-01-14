@@ -1,7 +1,7 @@
 url: https://camflip.net/api/v1/activations/$CF_ACTIVATION
-status: down
-code: 404
-responseTime: 190
-lastUpdated: 2025-01-13T23:02:05.607Z
+status: up
+code: 200
+responseTime: 265
+lastUpdated: 2025-01-14T13:30:55.796Z
 startTime: 2024-12-12T13:41:55.263Z
 generator: Upptime <https://github.com/upptime/upptime>
