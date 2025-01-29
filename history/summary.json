@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/camflip.net.ico",
     "slug": "cam-flip-api",
     "status": "up",
-    "uptime": "78.03%",
+    "uptime": "78.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "65.75%",
-    "uptimeYear": "78.03%",
+    "uptimeYear": "78.12%",
     "time": 175,
     "timeDay": 133,
     "timeWeek": 181,
@@ -112,10 +112,10 @@
     "url": "https://kemp.app",
     "icon": "https://icons.duckduckgo.com/ip3/kemp.app.ico",
     "slug": "kemp-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 332,
@@ -123,7 +123,9 @@
     "timeWeek": 357,
     "timeMonth": 340,
     "timeYear": 332,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-29": 1
+    }
   },
   {
     "name": "Kitboga.com",
@@ -166,9 +168,9 @@
     "url": "https://kitboga.com/out?url=https%3A%2F%2Fyoutube.com%2Fc%2FKitbogaShow&signature=774be8c8438adb1bdafa7e6a7c2e3285759dcc77367c68a02f5d5021fbb8f9bb",
     "icon": "https://icons.duckduckgo.com/ip3/kitboga.com.ico",
     "slug": "kitboga-com-out",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -177,16 +179,18 @@
     "timeWeek": 374,
     "timeMonth": 407,
     "timeYear": 408,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-29": 0
+    }
   },
   {
     "name": "Videomirror.app",
     "url": "https://videomirror.app",
     "icon": "https://icons.duckduckgo.com/ip3/videomirror.app.ico",
     "slug": "videomirror-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -195,7 +199,9 @@
     "timeWeek": 494,
     "timeMonth": 710,
     "timeYear": 630,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-29": 0
+    }
   },
   {
     "name": "Videomirror.app/donate",
