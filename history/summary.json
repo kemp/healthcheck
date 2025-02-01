@@ -130,19 +130,19 @@
     "url": "https://kitboga.com",
     "icon": "https://icons.duckduckgo.com/ip3/kitboga.com.ico",
     "slug": "kitboga-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 234,
-    "timeDay": 185,
-    "timeWeek": 240,
-    "timeMonth": 248,
-    "timeYear": 234,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 233,
+    "timeDay": 175,
+    "timeWeek": 230,
+    "timeMonth": 245,
+    "timeYear": 233,
     "dailyMinutesDown": {
-      "2025-02-01": 0
+      "2025-02-01": 7
     }
   },
   {
@@ -168,19 +168,19 @@
     "url": "https://kitboga.com/out?url=https%3A%2F%2Fyoutube.com%2Fc%2FKitbogaShow&signature=774be8c8438adb1bdafa7e6a7c2e3285759dcc77367c68a02f5d5021fbb8f9bb",
     "icon": "https://icons.duckduckgo.com/ip3/kitboga.com.ico",
     "slug": "kitboga-com-out",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 401,
-    "timeDay": 223,
-    "timeWeek": 358,
-    "timeMonth": 394,
-    "timeYear": 401,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 400,
+    "timeDay": 251,
+    "timeWeek": 354,
+    "timeMonth": 392,
+    "timeYear": 400,
     "dailyMinutesDown": {
-      "2025-02-01": 0
+      "2025-02-01": 7
     }
   },
   {
