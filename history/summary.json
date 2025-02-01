@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/camflip.net.ico",
     "slug": "cam-flip-api",
     "status": "up",
-    "uptime": "79.34%",
+    "uptime": "79.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "65.75%",
-    "uptimeYear": "79.34%",
+    "uptimeYear": "79.45%",
     "time": 176,
     "timeDay": 119,
     "timeWeek": 175,
@@ -130,18 +130,20 @@
     "url": "https://kitboga.com",
     "icon": "https://icons.duckduckgo.com/ip3/kitboga.com.ico",
     "slug": "kitboga-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 234,
-    "timeDay": 137,
-    "timeWeek": 241,
+    "timeDay": 185,
+    "timeWeek": 240,
     "timeMonth": 248,
     "timeYear": 234,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-01": 0
+    }
   },
   {
     "name": "Bingo.Kitboga.com",
@@ -166,18 +168,20 @@
     "url": "https://kitboga.com/out?url=https%3A%2F%2Fyoutube.com%2Fc%2FKitbogaShow&signature=774be8c8438adb1bdafa7e6a7c2e3285759dcc77367c68a02f5d5021fbb8f9bb",
     "icon": "https://icons.duckduckgo.com/ip3/kitboga.com.ico",
     "slug": "kitboga-com-out",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 408,
-    "timeDay": 405,
-    "timeWeek": 394,
-    "timeMonth": 405,
-    "timeYear": 408,
-    "dailyMinutesDown": {}
+    "time": 401,
+    "timeDay": 223,
+    "timeWeek": 358,
+    "timeMonth": 394,
+    "timeYear": 401,
+    "dailyMinutesDown": {
+      "2025-02-01": 0
+    }
   },
   {
     "name": "Videomirror.app",
