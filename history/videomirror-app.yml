@@ -1,7 +1,7 @@
 url: https://videomirror.app
-status: up
-code: 200
-responseTime: 341
-lastUpdated: 2025-10-07T23:02:15.882Z
+status: down
+code: 502
+responseTime: 419
+lastUpdated: 2025-10-08T15:31:18.331Z
 startTime: 2024-12-12T13:41:59.330Z
 generator: Upptime <https://github.com/upptime/upptime>
