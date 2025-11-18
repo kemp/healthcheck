@@ -1,7 +1,7 @@
 url: https://camflip.net/licenses/$CF_LICENSE
-status: up
-code: 200
-responseTime: 43
-lastUpdated: 2025-11-18T12:14:59.913Z
+status: down
+code: 500
+responseTime: 19
+lastUpdated: 2025-11-18T13:09:43.676Z
 startTime: 2024-12-12T13:41:56.130Z
 generator: Upptime <https://github.com/upptime/upptime>
