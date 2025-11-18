@@ -1,7 +1,7 @@
 url: https://camflip.net/purchase
-status: up
-code: 200
-responseTime: 188
-lastUpdated: 2025-11-17T23:02:15.556Z
+status: down
+code: 500
+responseTime: 21
+lastUpdated: 2025-11-18T11:46:39.923Z
 startTime: 2024-12-12T13:41:56.496Z
 generator: Upptime <https://github.com/upptime/upptime>
