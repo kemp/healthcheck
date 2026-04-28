@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 228,
-    "timeDay": 166,
-    "timeWeek": 173,
-    "timeMonth": 170,
+    "timeDay": 176,
+    "timeWeek": 176,
+    "timeMonth": 172,
     "timeYear": 242,
     "dailyMinutesDown": {
       "2025-12-20": 13,
@@ -33,8 +33,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 112,
-    "timeDay": 95,
-    "timeWeek": 75,
+    "timeDay": 40,
+    "timeWeek": 67,
     "timeMonth": 63,
     "timeYear": 126,
     "dailyMinutesDown": {
@@ -52,10 +52,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 75,
-    "timeDay": 96,
-    "timeWeek": 79,
-    "timeMonth": 67,
+    "time": 74,
+    "timeDay": 47,
+    "timeWeek": 71,
+    "timeMonth": 66,
     "timeYear": 72,
     "dailyMinutesDown": {
       "2025-11-18": 139
@@ -73,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 220,
-    "timeDay": 212,
-    "timeWeek": 179,
-    "timeMonth": 190,
+    "timeDay": 143,
+    "timeWeek": 171,
+    "timeMonth": 188,
     "timeYear": 214,
     "dailyMinutesDown": {
       "2025-11-18": 139
@@ -92,10 +92,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.96%",
-    "time": 515,
-    "timeDay": 554,
-    "timeWeek": 469,
-    "timeMonth": 460,
+    "time": 514,
+    "timeDay": 249,
+    "timeWeek": 426,
+    "timeMonth": 448,
     "timeYear": 508,
     "dailyMinutesDown": {
       "2026-04-13": 73,
@@ -107,8 +107,7 @@
       "2025-06-30": 6,
       "2025-06-26": 10,
       "2025-05-28": 29,
-      "2025-05-12": 10,
-      "2025-04-28": 27
+      "2025-05-12": 10
     }
   },
   {
@@ -122,11 +121,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 374,
-    "timeDay": 229,
-    "timeWeek": 407,
-    "timeMonth": 405,
-    "timeYear": 358,
+    "time": 375,
+    "timeDay": 614,
+    "timeWeek": 460,
+    "timeMonth": 416,
+    "timeYear": 359,
     "dailyMinutesDown": {
       "2025-10-20": 8,
       "2025-06-30": 6
@@ -143,10 +142,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.96%",
-    "time": 361,
-    "timeDay": 346,
-    "timeWeek": 301,
-    "timeMonth": 310,
+    "time": 360,
+    "timeDay": 172,
+    "timeWeek": 273,
+    "timeMonth": 306,
     "timeYear": 393,
     "dailyMinutesDown": {
       "2026-04-08": 101,
@@ -166,9 +165,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 185,
-    "timeDay": 173,
-    "timeWeek": 170,
-    "timeMonth": 173,
+    "timeDay": 129,
+    "timeWeek": 165,
+    "timeMonth": 172,
     "timeYear": 188,
     "dailyMinutesDown": {
       "2026-02-12": 21,
@@ -187,10 +186,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.95%",
-    "time": 516,
-    "timeDay": 745,
-    "timeWeek": 649,
-    "timeMonth": 599,
+    "time": 517,
+    "timeDay": 500,
+    "timeWeek": 616,
+    "timeMonth": 594,
     "timeYear": 537,
     "dailyMinutesDown": {
       "2026-04-08": 101,
@@ -207,18 +206,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/videomirror.app.ico",
     "slug": "videomirror-app",
     "status": "down",
-    "uptime": "53.90%",
+    "uptime": "53.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "49.43%",
-    "time": 420,
-    "timeDay": 388,
-    "timeWeek": 292,
-    "timeMonth": 261,
+    "time": 419,
+    "timeDay": 209,
+    "timeWeek": 268,
+    "timeMonth": 263,
     "timeYear": 421,
     "dailyMinutesDown": {
-      "2026-04-27": 9,
+      "2026-04-28": 13,
+      "2026-04-27": 1440,
       "2026-04-26": 1440,
       "2026-04-25": 1440,
       "2026-04-24": 1440,
@@ -406,8 +406,7 @@
       "2025-09-17": 7,
       "2025-05-02": 27,
       "2025-04-30": 80,
-      "2025-04-29": 1440,
-      "2025-04-28": 1440
+      "2025-04-29": 1440
     }
   },
   {
@@ -416,18 +415,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/videomirror.app.ico",
     "slug": "videomirror-app-donate",
     "status": "down",
-    "uptime": "53.90%",
+    "uptime": "53.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "49.43%",
     "time": 43,
-    "timeDay": 73,
-    "timeWeek": 50,
-    "timeMonth": 35,
+    "timeDay": 7,
+    "timeWeek": 40,
+    "timeMonth": 34,
     "timeYear": 44,
     "dailyMinutesDown": {
-      "2026-04-27": 9,
+      "2026-04-28": 13,
+      "2026-04-27": 1440,
       "2026-04-26": 1440,
       "2026-04-25": 1440,
       "2026-04-24": 1440,
@@ -615,8 +615,7 @@
       "2025-09-17": 7,
       "2025-05-02": 27,
       "2025-04-30": 80,
-      "2025-04-29": 1440,
-      "2025-04-28": 1440
+      "2025-04-29": 1440
     }
   }
 ]
