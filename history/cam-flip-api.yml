@@ -1,7 +1,7 @@
 url: https://camflip.net/api/v1/activations/$CF_ACTIVATION
 status: up
 code: 200
-responseTime: 305
-lastUpdated: 2026-06-11T23:30:06.487Z
+responseTime: 320
+lastUpdated: 2026-06-12T23:28:52.832Z
 startTime: 2024-12-12T13:41:55.263Z
 generator: Upptime <https://github.com/upptime/upptime>
